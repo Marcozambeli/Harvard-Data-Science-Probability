@@ -1,2 +1,2 @@
 # Harvard-Data-Science-Probability
-3rd course from the professional certificate in Data Science.
+This is the third in a series of courses in the HarvardX Professional Certificate in Data Science program
